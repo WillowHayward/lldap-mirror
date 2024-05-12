@@ -1,0 +1,3 @@
+[submodule "lldap-cli"]
+	path = lldap-cli
+	url = https://github.com/WillowHayward/lldap-cli.git
